@@ -4,6 +4,7 @@ date: 2025-01-20 18:39:00 +0500
 author: antonrusinov
 description: Краткое описание предыдущей серии
 categories: [Гиперистория]
+tags: [Technical]
 ---
 ## Заголовок
 Текст, текст
