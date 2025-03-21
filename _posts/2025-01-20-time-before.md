@@ -1,10 +1,11 @@
 ---
-title: Rare movie
+title: Редкий ролик
 date: 2025-01-20 18:39:00 +0500
-author: author_a
-description: Short summary
+author: antonrusinov
+description: Краткое описание предыдущей серии
+categories: [Гиперистория]
 ---
-## Header
-Lorem ipsum
+## Заголовок
+Текст, текст
 
 {% include embed/youtube.html id='dQw4w9WgXcQ' %}
