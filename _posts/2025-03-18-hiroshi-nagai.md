@@ -90,4 +90,4 @@ Moonlight Mystery
 
 **** Хорошая статья о CityPop [https://www.rollingstone.com/music/music-features/japanese-city-pop-returns-light-in-the-attic-compilation-pacific-breeze-822663/](https://www.rollingstone.com/music/music-features/japanese-city-pop-returns-light-in-the-attic-compilation-pacific-breeze-822663/)
 
-***** Сайт Хироши Нагаи [http://hiroshinagai.com](http://hiroshinagai.com/) c неудобной навигацией, мелкими картинками, без названий и года написания картин, который однако дает общее впечатление о работах автора.
+***** Сайт http://hiroshinagai.com c неудобной навигацией, мелкими картинками, без названий и года написания картин, который однако дает общее впечатление о работах автора.
