@@ -2,7 +2,7 @@
 title: "Might and Magic"
 date: 2025-02-16 12:00:00 +0500
 author: antonrusinov
-tag: [НФ, ориджинал]
+tag: [НФ, американа, ориджинал]
 categories: ["Антон Русинов"]
 ---
 
