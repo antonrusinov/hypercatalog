@@ -2,7 +2,7 @@
 title: "Schemes of Nostalgia ~ Фандом у Пяти Столбов"
 date: 2025-02-21 12:00:00 +0500
 author: Suzunaan_Dweller
-tag: [отаку, видеоигры, ориджинал]
+tag: [отаку, игры, ориджинал]
 categories: ["Suzunaan Dweller"]
 ---
 
