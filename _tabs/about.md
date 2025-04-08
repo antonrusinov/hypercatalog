@@ -10,7 +10,7 @@ order: 4
 
 #### Редакция
 
-[Антон Русинов](https://boosty.to/rusinov) - главред
+[Антон Русинов](https://t.me/hyperhistory) - главред
 
 [Никита Grand Hamster](https://t.me/grandhamstergms) - арт-директор
 
