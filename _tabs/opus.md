@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-face-sunglasses
+icon: fas fa-solid fa-y
 order: 5
 ---
 
