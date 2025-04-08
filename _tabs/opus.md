@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-y
+icon: fas fa-masks-theater
 order: 5
 ---
 
