@@ -4,6 +4,8 @@ date: 2025-03-24 12:00:00 +0500
 author: Suzunaan_Dweller
 tag: [отаку, игры, ориджинал]
 categories: ["Suzunaan Dweller"]
+image:
+  path: "/assets/img/KONAME.png"
 ---
 
 ![](https://i.ibb.co/XfRWLRRz/tw-konami-card-2.png)
