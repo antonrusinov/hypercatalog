@@ -4,6 +4,8 @@ date: 2025-03-18 12:00:00 +0500
 author: kartahelios
 tag: [отаку, американа, ориджинал]
 categories: ["Карты гелия"]
+image:
+  path: "/assets/img/HOLYKO.png"
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/5cb09473755be259f904d128/1709779292470-7M9MK4B6R8KDNWA2N0ZC/PXL_20240302_074751633%7E3+COVER.jpg)
