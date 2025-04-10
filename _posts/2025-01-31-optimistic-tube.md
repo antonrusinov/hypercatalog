@@ -4,6 +4,8 @@ date: 2025-01-31 12:00:00 +0500
 author: ti_fl_gs
 tag: [НФ, ориджинал]
 categories: ["Γρηγόριος Μιχαήλ"]
+image:
+  path: "/assets/img/PISETS.png"
 ---
 
 ![](https://img4.teletype.in/files/3b/7d/3b7d40b3-237b-47df-a31e-926ac6dfac58.jpeg)
