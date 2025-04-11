@@ -21,3 +21,5 @@ Suzunaan Dweller - автор
 #### Контакты
 
 [Канал в телеграме](https://t.me/hypercatalog)
+
+[Разговорные стримы на ютубе](https://www.youtube.com/@HyperHistoryTV)
