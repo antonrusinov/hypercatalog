@@ -12,5 +12,5 @@ image:
 
 Видео на ютубе: [первое](https://youtu.be/XgnTZkIUkMw), [второе](https://youtu.be/M6Hut5aGg8w).
 
-![](https://ibb.co/7xRmPdvq)
-![](https://ibb.co/k6WZcX1s)
+![](https://imgur.com/OO3jOXA)
+![](https://imgur.com/BaAaYAL)
