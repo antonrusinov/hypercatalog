@@ -9,5 +9,4 @@ image:
 ---
 
 [![Энди Уорхол, уличная мода, и новая эпоха Возрождения](https://img.youtube.com/vi/STfkvI1J1S4/0.jpg)](https://www.youtube.com/watch?v=STfkvI1J1S4)
-
 _Кликните на картинку, чтобы открыть видео_
