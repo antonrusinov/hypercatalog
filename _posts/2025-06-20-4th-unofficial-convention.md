@@ -2,7 +2,7 @@
 title: "Отчет о четвертом неофициальном съезде ОПУС"
 date: 2025-06-20 12:10:00 +0500
 author: antonrusinov
-tag: [ориджинал]
+tag: [ориджинал, ОПУС]
 categories: ["Антон Русинов"]
 image:
   path: "https://i.ibb.co/FLf75fSX/gamesession.png"
