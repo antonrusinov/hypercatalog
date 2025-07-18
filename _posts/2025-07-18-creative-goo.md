@@ -78,4 +78,4 @@ _Её же рисунок_
 5. Один из самых популярных [каналов](https://www.youtube.com/@Yumemey) с фумо-видео:
 6. Фумо-игра в [роблоксе](https://www.roblox.com/games/6238705697/Become-Fumo):
 7. Другая фумо [игра](https://honkyhood11.itch.io/touhou-fumo-racing):
-8. Крупнейший [сабреддит](https://www.reddit.com/r/Fumofumo/
+8. Крупнейший [сабреддит](https://www.reddit.com/r/Fumofumo/)
