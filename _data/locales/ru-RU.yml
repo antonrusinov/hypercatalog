@@ -81,8 +81,10 @@ df:
 # categories page
 categories:
   category_measure:
-    singular: Автор
-    plural: авторы
+    one: Автор
+    few: автора
+    many: авторов
   post_measure:
-    singular: пост
-    plural: посты
+    one: пост
+    few: поста
+    many: постов
