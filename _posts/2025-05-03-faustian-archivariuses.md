@@ -1,11 +1,15 @@
 ---
-title: "Faustian Archivariuses ~ Профсоюзы Страны Иллюзий"
+title: "Suzunaan Dweller: Faustian Archivariuses ~ Профсоюзы Страны Иллюзий"
 date: 2025-05-03 12:00:00 +0500
 author: Suzunaan_Dweller
-tag: [отаку, игры, ориджинал]
-categories: ["Suzunaan Dweller"]
+tag:
+  - отаку
+  - игры
+  - ориджинал
+categories:
+  - Suzunaan Dweller
 image:
-  path: "https://i.ibb.co/wZVqz6V1/oblogacringe.png"
+  path: https://i.ibb.co/wZVqz6V1/oblogacringe.png
 ---
 
 Ну что же, спустя 2 месяца я снова готов продолжить разговор о Тохо и структуре фандома. В прошлой статье я рассказывал о том как люди заражаются благодаря распространителям контента на различных платформах. Но пусть музыка на ютубе зародила во мне интерес, я бы не стал фанатом если бы не другая структура - фанатская вики, основной источник лорной информации.

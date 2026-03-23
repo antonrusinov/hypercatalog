@@ -1,11 +1,15 @@
 ---
-title: "Шёл я верхом, шёл я низом, занимался толкиенизмом"
+title: "Никита Grand Hamster: Шёл я верхом, шёл я низом, занимался толкиенизмом"
 date: 2025-02-07 12:00:00 +0500
 author: Grand_Hamster
-tag: [НФ, американа, ориджинал]
-categories: ["Никита Grand Hamster"]
+tag:
+  - НФ
+  - американа
+  - ориджинал
+categories:
+  - Никита Grand Hamster
 image:
-  path: "/assets/img/TOLKIEN.png"
+  path: /assets/img/TOLKIEN.png
 ---
 
 

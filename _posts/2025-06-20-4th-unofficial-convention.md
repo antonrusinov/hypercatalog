@@ -1,11 +1,14 @@
 ---
-title: "Отчет о четвертом неофициальном съезде ОПУС"
+title: "Антон Русинов: Отчет о четвертом неофициальном съезде ОПУС"
 date: 2025-06-20 12:10:00 +0500
 author: antonrusinov
-tag: [ориджинал, ОПУС]
-categories: ["Антон Русинов"]
+tag:
+  - ориджинал
+  - ОПУС
+categories:
+  - Антон Русинов
 image:
-  path: "https://i.ibb.co/FLf75fSX/gamesession.png"
+  path: https://i.ibb.co/FLf75fSX/gamesession.png
 ---
 
 На четвертом неофициальном съезде мы играли в настолки [Никиты](https://hypercatalog.ru/categories/никита-grand-hamster/).

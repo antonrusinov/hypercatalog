@@ -1,5 +1,5 @@
 ---
-title: "История ИИ: Часть I"
+title: "Евгений Metaprogramming: История ИИ - Часть I"
 date: 2025-08-24 12:20:00 +0500
 author: metaprogramming
 tags:

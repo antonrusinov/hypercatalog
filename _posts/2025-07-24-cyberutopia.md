@@ -1,5 +1,5 @@
 ---
-title: Киберутопии
+title: "Антон Русинов: Киберутопии"
 date: 2025-07-24 12:40:00 +0500
 author: antonrusinov
 tags:

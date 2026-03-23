@@ -1,9 +1,13 @@
 ---
-title: "Schemes of Nostalgia ~ Фандом у Пяти Столбов"
+title: "Suzunaan Dweller: Schemes of Nostalgia ~ Фандом у Пяти Столбов"
 date: 2025-02-21 12:00:00 +0500
 author: Suzunaan_Dweller
-tag: [отаку, игры, ориджинал]
-categories: ["Suzunaan Dweller"]
+tag:
+  - отаку
+  - игры
+  - ориджинал
+categories:
+  - Suzunaan Dweller
 ---
 
 Когда люди говорят о фандомах - они говорят много. Сам фандом это бесконечные обсуждения: произведения, истории его создания, фанатских произведений, других обсуждений произведений, фанатов, обсуждающих произведения, and so on, and so on…

@@ -1,11 +1,13 @@
 ---
-title: "Половой вопрос"
+title: "Антон Русинов: Половой вопрос"
 date: 2025-03-30 12:00:00 +0500
 author: antonrusinov
-tag: [ориджинал]
-categories: ["Антон Русинов"]
+tag:
+  - ориджинал
+categories:
+  - Антон Русинов
 image:
-  path: "/assets/img/SEXboomer.png"
+  path: /assets/img/SEXboomer.png
 ---
 
 

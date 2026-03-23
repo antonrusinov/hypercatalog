@@ -1,5 +1,5 @@
 ---
-title: Сёдзе с грустным концом
+title: "Oleg Anno: Сёдзе с грустным концом"
 date: 2025-07-23 18:30:00 +0500
 author: Oleg_Anno
 tags:

@@ -1,11 +1,15 @@
 ---
-title: "Creative Grey Goo ~ Плюшевая экспансия!"
+title: "Suzunaan Dweller: Creative Grey Goo ~ Плюшевая экспансия!"
 date: 2025-07-18 18:00:00 +0500
 author: Suzunaan_Dweller
-tag: [отаку, игры, ориджинал]
-categories: ["Suzunaan Dweller"]
+tag:
+  - отаку
+  - игры
+  - ориджинал
+categories:
+  - Suzunaan Dweller
 image:
-  path: "https://iimg.su/s/18/4wLNHEhM5P4TcSeiOWXDeOKPxl9FCo4WhvaPY1Re.png"
+  path: https://iimg.su/s/18/4wLNHEhM5P4TcSeiOWXDeOKPxl9FCo4WhvaPY1Re.png
 ---
 Как я уже упоминал, вероятность того что вы уже [сталкивались](https://www.youtube.com/watch?v=B30dJwKcMpA) с Тохой в своей жизни очень велика. Например, вы могли встретить в комментариях к какому-нибудь посту гифку с забавной плюшевой куклой, излучающей ауру наглого самодовольства.
 ![](https://i.ibb.co/m5jxJzP5/static-assets-upload3201609681017179359.png)

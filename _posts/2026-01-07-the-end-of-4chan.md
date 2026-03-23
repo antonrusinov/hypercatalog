@@ -1,5 +1,5 @@
 ---
-title: The End of 4chan
+title: "Oleg Anno: The End of 4chan"
 date: 2026-01-07 20:30:00 +0500
 author: Oleg_Anno
 tags:

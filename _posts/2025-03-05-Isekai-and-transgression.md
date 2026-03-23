@@ -1,11 +1,14 @@
 ---
-title: "Исекай и трансгрессия"
+title: "Антон Русинов: Исекай и трансгрессия"
 date: 2025-03-05 12:00:00 +0500
 author: antonrusinov
-tag: [отаку, ориджинал]
-categories: ["Антон Русинов"]
+tag:
+  - отаку
+  - ориджинал
+categories:
+  - Антон Русинов
 image:
-  path: "/assets/img/TRUNCEISEKAI.png"
+  path: /assets/img/TRUNCEISEKAI.png
 ---
 
 
